@@ -67,14 +67,6 @@ Desarrollador de software con **más de 10 años de experiencia** construyendo s
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsanchezdevcode&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ### 🐍 Mi actividad en GitHub
 
 <picture>
