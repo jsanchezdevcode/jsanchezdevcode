@@ -6,7 +6,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jsanchezdevcode&color=blueviolet&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Asunci%C3%B3n-Paraguay-0038A8?style=flat-square"/>
   <img src="https://img.shields.io/badge/💻-10%2B%20años-ff69b4?style=flat-square"/>
 </p>
 
