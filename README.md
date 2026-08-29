@@ -83,8 +83,11 @@ Desarrollador de software con **más de 10 años de experiencia** construyendo s
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jsanchezdevcode&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️%20in%20Paraguay-ff69b4?style=for-the-badge"/>
