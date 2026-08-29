@@ -82,6 +82,7 @@ Desarrollador de software con **más de 10 años de experiencia** construyendo s
   <a href="https://www.linkedin.com/in/jose-luis-enrique-sanchez-avalos-26468539" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jsanchezdevcode&theme=catppuccin-mocha&hide_border=true)](https://git.io/streak-stats)
 </p>
 
 ---
