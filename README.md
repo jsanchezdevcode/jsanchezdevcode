@@ -49,13 +49,15 @@
 
 <div align="center">
 
-**🧠 IA & LLM**
+**🧠 Agent IA & LLM**
 
 <img src="https://skillicons.dev/icons?i=py&theme=dark" />
 <img src="https://cdn.simpleicons.org/ollama/white" width="48" height="48" />
 <img src="https://cdn.simpleicons.org/vllm/30A2FF" alt="VLLM" width="48" height="48">
 <img src="https://cdn.simpleicons.org/claudecode/D97757" alt="ClaudeCode" width="48" height="48">
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" />
+<img src="https://svgl.app/library/warp.svg"  alt="Warp" width="48" height="48"/>
+
 
 **📱 Mobile**
 
@@ -72,6 +74,8 @@
 **🗄️ Datos**
 
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark" />
+<img src="https://svgl.app/library/supabase.svg"  alt="Supabase" width="48" height="48"/>
+<img src="https://svgl.app/library/sql-server.svg"  alt="SQLServer" width="48" height="48"/>
 
 **🧰 Herramientas**
 
