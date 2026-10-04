@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsanchezdevcode&color=2E9EF7&style=flat-square&label=Profile+Views" alt="profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jsanchezdevcode.jsanchezdevcode" alt="visitor badge"/>
   <img src="https://img.shields.io/badge/📍_Paraguay-2E9EF7?style=flat-square"/>
   <img src="https://img.shields.io/badge/💼_10+-años-2E9EF7?style=flat-square"/>
 </p>
