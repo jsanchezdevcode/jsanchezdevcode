@@ -16,7 +16,7 @@
 
 ### 🚀 Sobre mí
 
-> Desarrollador de software con **más de 10 años de experiencia** construyendo soluciones móviles y web. Actualmente **Senior Backend Developer** en .NET / C#, con foco en **IA aplicada**: integración de **LLMs** (Ollama, vLLM, LiteLLM) y despliegues en **Azure**.
+> Desarrollador de software con **más de 10 años de experiencia** construyendo soluciones móviles y web. Actualmente **Senior Full Stack Developer** en .NET / C#, con foco en **IA aplicada**: integración de **LLMs** (Ollama, vLLM, LiteLLM) y despliegues en **Azure**.
 
 <table>
 <tr>
